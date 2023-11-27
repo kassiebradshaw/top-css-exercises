@@ -1,0 +1,43 @@
+/*
+DONE: Odd numbered elements
+* light red/pink background
+* list of fonts containing 'Verdana' 'DejaVu Sans' and 'sans-serif' 
+*/
+
+.odd {
+  background-color: pink;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+/* 
+DONE: Second element
+* blue text
+* font size 36px
+*/
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+/* 
+DONE: Third element
+* Odd element rules
+* Font size 24px (also in 4th element)
+*/
+
+.new-font-size {
+  font-size: 24px
+}
+
+ /* 
+DONE: Fourth element
+* light green background
+* font size 24px (also in 3rd element)
+* bold
+*/
+
+#fourth {
+  background-color: lightgreen;
+  font-weight: bold;
+}
