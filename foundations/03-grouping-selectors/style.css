@@ -1,0 +1,19 @@
+/* DONE: 1st element - black background & white text */
+
+/* DONE: 2nd element - yellow background */
+
+/* DONE: Both elements - font size 28px & fonts Helvetica, Times New Roman, sans-serif */
+
+.black-n-white, .fav {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif
+}
+
+.black-n-white {
+  background-color: black;
+  color: white;
+}
+
+.fav {
+  background-color: yellow;
+}
