@@ -1,0 +1,12 @@
+/* 
+TODO: select p tags that are descendants of div elements
+
+TODO: yellow backgrounds, red text, font size 20px, center aligned
+*/
+
+.container .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
